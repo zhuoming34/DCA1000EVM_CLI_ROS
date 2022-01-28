@@ -1,0 +1,177 @@
+
+Sun Nov 21 23:43:38 2021
+Invalid Command (dcaconf.json). error[-4048]
+
+Sun Nov 21 23:43:45 2021
+Invalid Command (json/dcaconf.json). error[-4048]
+
+Mon Nov 22 01:17:04 2021
+Read DLL Verison Command (req)
+
+Mon Nov 22 01:17:04 2021
+DLL Version : 1.0
+
+Mon Nov 22 01:23:55 2021
+Read DLL Verison Command (req)
+
+Mon Nov 22 01:23:55 2021
+DLL Version : 1.0
+
+Mon Nov 22 01:24:33 2021
+Read DLL Verison Command (req)
+
+Mon Nov 22 01:24:33 2021
+DLL Version : 1.0
+
+Mon Nov 22 01:26:23 2021
+Read DLL Verison Command (req)
+
+Mon Nov 22 01:26:23 2021
+DLL Version : 1.0
+
+Mon Nov 22 01:26:25 2021
+Read DLL Verison Command (req)
+
+Mon Nov 22 01:26:25 2021
+DLL Version : 1.0
+
+Mon Nov 22 01:26:30 2021
+Read DLL Verison Command (req)
+
+Mon Nov 22 01:26:30 2021
+DLL Version : 1.0
+
+Mon Nov 22 10:27:55 2021
+Read DLL Verison Command (req)
+
+Mon Nov 22 10:27:55 2021
+DLL Version : 1.0
+
+Mon Nov 22 10:28:35 2021
+Invalid Command (). error[-4048]
+
+Mon Nov 22 10:28:45 2021
+Invalid Command (). error[-4048]
+
+Mon Nov 22 10:29:09 2021
+Invalid Command (command). error[-4048]
+
+Mon Nov 22 10:29:14 2021
+Invalid Command (command). error[-4048]
+
+Mon Nov 22 10:33:58 2021
+Invalid Command (). error[-4048]
+
+Mon Nov 22 10:40:24 2021
+Invalid Command (). error[-4048]
+
+Mon Nov 22 10:58:06 2021
+Read DLL Verison Command (req)
+
+Mon Nov 22 10:58:06 2021
+DLL Version : 1.0
+
+Mon Nov 22 10:58:08 2021
+Read DLL Verison Command (req)
+
+Mon Nov 22 10:58:08 2021
+DLL Version : 1.0
+
+Mon Nov 22 10:58:10 2021
+Read DLL Verison Command (req)
+
+Mon Nov 22 10:58:10 2021
+DLL Version : 1.0
+
+Mon Nov 22 10:58:22 2021
+Invalid Command (dll_versio). error[-4048]
+
+Mon Nov 22 10:59:11 2021
+Invalid Command (dll_versio). error[-4048]
+
+Mon Nov 22 10:59:14 2021
+Invalid Command (dll_versio). error[-4048]
+
+Mon Nov 22 10:59:19 2021
+Read DLL Verison Command (req)
+
+Mon Nov 22 10:59:19 2021
+DLL Version : 1.0
+
+Mon Nov 22 11:03:32 2021
+Read DLL Verison Command (req)
+
+Mon Nov 22 11:03:32 2021
+DLL Version : 1.0
+
+Mon Nov 22 11:08:16 2021
+Invalid Command (). error[-4048]
+
+Mon Nov 22 11:08:30 2021
+Read DLL Verison Command (req)
+
+Mon Nov 22 11:08:30 2021
+DLL Version : 1.0
+
+Mon Nov 22 11:09:20 2021
+Read DLL Verison Command (req)
+
+Mon Nov 22 11:09:20 2021
+DLL Version : 1.0
+
+Mon Nov 22 19:27:47 2021
+Read DLL Verison Command (req)
+
+Mon Nov 22 19:27:47 2021
+DLL Version : 1.0
+
+Mon Nov 22 19:27:51 2021
+Read DLL Verison Command (req)
+
+Mon Nov 22 19:27:51 2021
+DLL Version : 1.0
+
+Mon Nov 22 19:30:06 2021
+Invalid Command (). error[-4048]
+
+Mon Nov 22 19:31:39 2021
+Read DLL Verison Command (req)
+
+Mon Nov 22 19:31:39 2021
+DLL Version : 1.0
+
+Mon Nov 22 19:31:44 2021
+Invalid Command (). error[-4048]
+
+Mon Nov 22 19:31:49 2021
+Invalid Command (abc). error[-4048]
+
+Mon Nov 22 19:32:25 2021
+Invalid Command (abc). error[-4048]
+
+Mon Nov 22 19:32:38 2021
+Invalid Command (). error[-4048]
+
+Mon Nov 22 19:32:43 2021
+Invalid Command (). error[-4048]
+
+Mon Nov 22 19:32:47 2021
+Invalid Command (). error[-4048]
+
+Mon Nov 22 19:32:57 2021
+Read DLL Verison Command (req)
+
+Mon Nov 22 19:32:57 2021
+DLL Version : 1.0
+
+Mon Nov 22 19:34:18 2021
+Read DLL Verison Command (req)
+
+Mon Nov 22 19:34:18 2021
+DLL Version : 1.0
+
+Mon Nov 22 19:43:18 2021
+Read DLL Verison Command (req)
+
+Mon Nov 22 19:43:18 2021
+DLL Version : 1.0

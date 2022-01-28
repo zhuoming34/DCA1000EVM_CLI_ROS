@@ -1,0 +1,8 @@
+prefix=/home/zhuoming/dca1000_ws/install
+
+Name: dca1000_rospkg
+Description: Description of dca1000_rospkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

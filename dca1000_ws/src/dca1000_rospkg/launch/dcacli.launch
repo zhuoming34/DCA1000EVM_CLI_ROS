@@ -1,0 +1,19 @@
+<!-- This file will launch the Command Line Interface for triggering DCA1000EVM node -->
+
+<launch>
+
+	<!-- Input Arguments -->
+	<arg name="dcaconf" value="$(find dca1000_rospkg)/json/dcaconf.json" doc="path to configuration file of DCA1000EVM" />
+
+	<!-- CLI control node -->
+	<!-- Display command list -->
+	<node pkg="dca1000_rospkg" type="DCA1000EVM_CLI_Control" name="DCA_Control_0" ns="DCA_CLI_0" args="dll_version" output="screen" />
+	<!-- Configure FPGA -->
+	<node pkg="dca1000_rospkg" type="DCA1000EVM_CLI_Control" name="DCA_Control_1" ns="DCA_CLI_0" args="fpga $(arg dcaconf)" launch-prefix="bash -c 'sleep 1.0; $0 $@' " output="screen" /> 
+	<!-- Configure record delay -->
+	<node pkg="dca1000_rospkg" type="DCA1000EVM_CLI_Control" name="DCA_Control_2" ns="DCA_CLI_0" args="record $(arg dcaconf)" launch-prefix="bash -c 'sleep 2.0; $0 $@' " output="screen" /> 
+	<!-- Start the record -->
+	<node pkg="dca1000_rospkg" type="DCA1000EVM_CLI_Control" name="DCA_Control_3" ns="DCA_CLI_0" args="start_record $(arg dcaconf)" launch-prefix="bash -c 'sleep 3.0; $0 $@' " output="screen" /> 
+	<!-- Stop the record after recording data -->
+	<node pkg="dca1000_rospkg" type="DCA1000EVM_CLI_Control" name="DCA_Control_4" ns="DCA_CLI_0" args="stop_record $(arg dcaconf)" launch-prefix="bash -c 'sleep 10.0; $0 $@' " output="screen" /> 
+</launch>

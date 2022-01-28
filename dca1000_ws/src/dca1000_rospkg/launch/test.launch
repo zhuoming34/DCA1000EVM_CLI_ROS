@@ -1,0 +1,9 @@
+<!-- This file will launch the Command Line Interface for triggering DCA1000EVM node -->
+
+<launch>
+
+	<!-- CLI control node -->
+	<node pkg="dca1000_rospkg" type="DCA1000EVM_CLI_Control" name="DCA_Control_0" args="-h" output="screen"/>
+
+
+</launch>

@@ -1,0 +1,2 @@
+dca1000_rospkg
+-DCATKIN_DEVEL_PREFIX=/home/zhuoming/dca1000_ws/devel -DCMAKE_INSTALL_PREFIX=/home/zhuoming/dca1000_ws/install -G Unix Makefiles
